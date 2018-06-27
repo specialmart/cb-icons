@@ -18,9 +18,9 @@
    shape-rendering="crispEdges"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="dbgpause_32.svg"
-   inkscape:export-filename="/home/martin/Pictures/Icons_job/dbgpause/dbgpause_96.png"
-   inkscape:export-xdpi="288"
-   inkscape:export-ydpi="288">
+   inkscape:export-filename="dbgpause_32.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -96,7 +96,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="-5.1345277"
+     inkscape:cx="17.328658"
      inkscape:cy="20.302063"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"

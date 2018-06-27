@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="closebutton_24.svg"
-   inkscape:export-filename="/home/martin/Pictures/Icons_job/dbgstop/dbgstop_48.png"
+   sodipodi:docname="dbgstop_24.svg"
+   inkscape:export-filename="dbgstop_24.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    style="shape-rendering:crispEdges">
@@ -54,7 +54,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="22.649902"
+     inkscape:cx="-11.291223"
      inkscape:cy="8.9209685"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
