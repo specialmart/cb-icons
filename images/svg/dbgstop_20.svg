@@ -15,7 +15,7 @@
    viewBox="0 0 5.2916667 5.2916667"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="dbgstop_20.svg"
    inkscape:export-filename="dbgstop_20.png"
    inkscape:export-xdpi="96"
@@ -54,7 +54,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="-0.6175136"
+     inkscape:cx="-6.4612636"
      inkscape:cy="8.9740463"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -65,9 +65,9 @@
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      objecttolerance="10000"
      guidetolerance="10000">
@@ -103,7 +103,8 @@
        style="stroke-width:1.46666658;image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="5.2916665"
-       width="5.2916665" />
+       width="5.2916665"
+       transform="translate(-1.0583335,-1.2796002e-5)" />
     <path
        style="fill:url(#linearGradient866-3);fill-opacity:1;stroke:#a71313;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 0.92604166,293.17581 v -0.11151 c 0,-0.17196 0.25796874,-0.42995 0.42994784,-0.42995 0.1719791,0 1.8057811,-10e-6 2.5796876,0 0.1719793,0 0.4299479,0.25799 0.4299479,0.42995 v 2.57968 c 0,0.17198 -0.2579686,0.42995 -0.4299479,0.42995 -0.7739065,0 -2.4077085,0 -2.5796876,0 -0.1719791,0 -0.42994784,-0.25797 -0.42994784,-0.42995 0,-0.17198 0,-2.46817 0,-2.46817"
