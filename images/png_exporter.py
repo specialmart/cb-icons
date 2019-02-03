@@ -30,9 +30,15 @@ def export_png_images(startpath):
                    }
                    
     svg_dir_path = os.path.join(startpath, 'svg')
+    do_not_export_dirs = [os.path.join(svg_dir_path,'start_here')]
+    
     for root, dirs, files in os.walk(svg_dir_path):
         print("root={}".format(root))
         print("dirs={}".format(dirs))
+        
+        if root in do_not_export_dirs:
+            print('Skipping {}\n'.format(root))
+            continue
         
         svg_dir = root[len(svg_dir_path)+1:]
         print('startpath=<{}>'.format(startpath))
