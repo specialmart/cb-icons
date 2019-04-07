@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,8 +13,8 @@
    viewBox="0 0 5.2916666 5.2916668"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="incsearchselectedonly20.svg"
+   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   sodipodi:docname="incsearchselectedonly_20.svg"
    inkscape:export-filename="incsearchselectedonly_20.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -97,9 +95,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254836"
-     inkscape:cx="4.6023544"
-     inkscape:cy="8.5771189"
+     inkscape:zoom="32.000001"
+     inkscape:cx="-1.5776302"
+     inkscape:cy="13.149024"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -109,10 +107,11 @@
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3699"
@@ -141,6 +140,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-291.7083)">
+    <rect
+       transform="matrix(1.0000003,0,0,1.0000052,-2.6649965e-7,-0.26610518)"
+       y="293.16351"
+       x="0.92604178"
+       height="2.9104002"
+       width="2.9104166"
+       id="rect833-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
     <image
        y="291.70831"
        x="-5.953125"
@@ -158,15 +165,16 @@
        x="0.39687502"
        y="293.69269" />
     <rect
-       style="fill:url(#linearGradient859);fill-opacity:1;stroke:#5d5d5d;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.78151263"
+       style="fill:url(#linearGradient859);fill-opacity:1;stroke:#5d5d5d;stroke-width:0.264582;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.781513"
        id="rect833"
        width="2.9104166"
        height="2.9104002"
        x="0.92604178"
-       y="293.16351" />
+       y="293.16351"
+       transform="matrix(1.0000003,0,0,1.0000055,-1.0109658e-6,-0.26620051)" />
     <path
-       style="fill:url(#linearGradient843);fill-opacity:1;stroke:#474747;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 3.5718751,292.63434 H 3.0427084 l 0,-0.52916 1.5875001,-1e-5 -1e-7,0.52917 -0.5291666,0 0,3.175 h 0.5291666 l 1e-7,0.52917 H 3.0427084 l 0,-0.52917 h 0.5291667 z"
+       style="fill:url(#linearGradient843);fill-opacity:1;stroke:#353535;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.5718751,292.63434 H 3.0427084 v -0.52916 l 1.5875001,-1e-5 -1e-7,0.52917 H 4.1010418 v 3.43958 h 0.5291666 l 1e-7,0.52917 H 3.0427084 v -0.52917 h 0.5291667 z"
        id="path835"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />

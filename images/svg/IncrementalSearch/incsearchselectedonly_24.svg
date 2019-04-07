@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,8 +13,8 @@
    viewBox="0 0 6.3499999 6.3500002"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="incsearchselectedonly24.svg"
+   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   sodipodi:docname="incsearchselectedonly_24.svg"
    inkscape:export-filename="incsearchselectedonly_48.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
@@ -97,9 +95,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64.000003"
-     inkscape:cx="6.0017771"
-     inkscape:cy="12.51591"
+     inkscape:zoom="22.627418"
+     inkscape:cx="7.071497"
+     inkscape:cy="14.80678"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -109,10 +107,11 @@
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid3699"
@@ -137,6 +136,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-290.64997)">
+    <rect
+       y="292.10519"
+       x="1.1906251"
+       height="3.4395661"
+       width="3.1750004"
+       id="rect833-6"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.999988;shape-rendering:crispEdges"
+       transform="translate(-2.3405889e-7,-1.5918914e-5)" />
     <image
        y="290.09869"
        x="-6.6764669"
@@ -161,7 +168,7 @@
        x="1.1906251"
        y="292.10519" />
     <path
-       style="fill:url(#linearGradient843);fill-opacity:1;stroke:#474747;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient843);fill-opacity:1;stroke:#2d2d2d;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 4.1010418,291.84059 H 3.5718751 l 0,-0.79375 h 1.8520834 v 0.79375 H 4.8947918 l 0,3.70417 h 0.5291667 l 0,0.79375 H 3.5718751 l 0,-0.79375 h 0.5291667 c 0,-1.33041 1e-7,-2.37376 0,-3.70417 z"
        id="path835"
        inkscape:connector-curvature="0"
