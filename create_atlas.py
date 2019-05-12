@@ -37,16 +37,19 @@ imageTypes=[
     "images/ThreadSearch"
 ]
 
-#imageSizes=[16, 20, 24, 28, 32, 40, 48, 56, 64, 128]
-imageSizes=[20, 24, 28, 32, 40, 48, 56, 64]#, 128]
 xOffset=100
-fullSize=sum(imageSizes)+len(imageSizes)*4+xOffset
-yStride=max(imageSizes)+5
-
 currentAtlas=0
 
 for t in imageTypes:
     print("======", t, "======" )
+
+    imageSizes=[]
+    if t == "images/manager_resources":
+        imageSizes.extend([8, 10, 12, 16])
+    imageSizes.extend([20, 24, 28, 32, 40, 48, 56, 64])#, 96, 128])
+
+    fullSize=sum(imageSizes)+len(imageSizes)*4+xOffset
+    yStride=max(imageSizes)+5
 
     allFiles=gatherImagesList(t)
 
