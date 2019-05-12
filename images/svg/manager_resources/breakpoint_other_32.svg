@@ -18,9 +18,9 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="breakpoint_other_32.svg"
-   inkscape:export-filename="breakpoint_other_128.png"
-   inkscape:export-xdpi="384"
-   inkscape:export-ydpi="384">
+   inkscape:export-filename="../../manager_resources/32x32/breakpoint_other.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4">
     <linearGradient
@@ -73,7 +73,7 @@
        x2="8"
        y2="1023.3621"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3.0000009,3.0000097)" />
+       gradientTransform="matrix(1.2916666,0,0,1.2916675,-1.4374987,-297.75218)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient843"
@@ -92,8 +92,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="18.453545"
-     inkscape:cx="-8.0953333"
-     inkscape:cy="22.665645"
+     inkscape:cx="-19.962972"
+     inkscape:cy="18.330435"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -144,12 +144,13 @@
      id="layer1"
      transform="translate(0,-1020.3621)"
      style="display:inline">
-    <circle
+    <ellipse
        style="fill:url(#linearGradient862);fill-opacity:1;stroke:#344453;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path848"
-       cx="16.5"
-       cy="1035.8621"
-       r="12" />
+       cx="16"
+       cy="1036.3621"
+       rx="15.499999"
+       ry="15.50001" />
     <image
        y="1025.5288"
        x="-28.499998"
