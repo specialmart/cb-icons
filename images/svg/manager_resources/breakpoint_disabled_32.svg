@@ -18,7 +18,7 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="breakpoint_disabled_32.svg"
-   inkscape:export-filename="breakpoint_disabled_128.png"
+   inkscape:export-filename="../../manager_resources/32x32/breakpoint_disabled.png"
    inkscape:export-xdpi="384"
    inkscape:export-ydpi="384">
   <defs
@@ -61,7 +61,7 @@
        x2="8"
        y2="1023.3621"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3.0000009,3.0000097)" />
+       gradientTransform="matrix(1.2916667,0,0,1.2916736,-1.437501,-297.75855)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -123,12 +123,13 @@
      id="layer1"
      transform="translate(0,-1020.3621)"
      style="display:inline">
-    <circle
+    <ellipse
        style="fill:url(#linearGradient862);fill-opacity:1;stroke:#545454;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path848"
-       cx="16.5"
-       cy="1035.8621"
-       r="12" />
+       cx="15.999999"
+       cy="1036.3621"
+       rx="15.500001"
+       ry="15.500082" />
     <image
        y="1015.8621"
        x="-34.5"

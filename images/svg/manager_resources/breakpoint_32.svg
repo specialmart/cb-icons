@@ -61,7 +61,7 @@
        x2="8"
        y2="1023.3621"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(3.0000009,3.0000097)" />
+       gradientTransform="matrix(1.2916668,0,0,1.2916682,-1.4375005,-297.75287)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -123,12 +123,13 @@
      id="layer1"
      transform="translate(0,-1020.3621)"
      style="display:inline">
-    <circle
-       style="fill:url(#linearGradient862);fill-opacity:1;stroke:#9c0909;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <ellipse
+       style="fill:url(#linearGradient862);fill-opacity:1;stroke:#9c0909;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path848"
-       cx="16.5"
-       cy="1035.8621"
-       r="12" />
+       cx="16"
+       cy="1036.3621"
+       rx="15.5"
+       ry="15.500018"
     <image
        y="1023.8621"
        x="-21.833332"
