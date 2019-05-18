@@ -53,11 +53,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000001"
-     inkscape:cx="4.3686172"
-     inkscape:cy="14.825203"
+     inkscape:zoom="22.627418"
+     inkscape:cx="-0.64491682"
+     inkscape:cy="18.217465"
      inkscape:document-units="px"
-     inkscape:current-layer="g4535"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:pagecheckerboard="false"
@@ -65,9 +65,9 @@
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1018"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      objecttolerance="10000"
      guidetolerance="10000">
@@ -109,11 +109,12 @@
        transform="matrix(1.1342485,0,0,1.1341363,-2.0975486,-40.821567)"
        style="stroke-width:0.88168466">
       <path
-         sodipodi:nodetypes="cccccccccc"
+         sodipodi:nodetypes="cccccccccsc"
          inkscape:connector-curvature="0"
          id="path4507"
-         d="m 2.4324537,295.88381 h 3.4990129 l 0,0.93316 0.1283478,10e-6 1.9203643,-1.81368 -1.9203643,-1.92036 -0.1283478,0.001 v 0.93317 c -2.0507649,0.009 -3.4990071,0.0256 -3.4990071,0.0256 z"
-         style="fill:url(#linearGradient836);fill-opacity:1;stroke:#075503;stroke-width:0.23327908;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 2.6657212,295.88382 c 0.4665351,0 3.2657454,-1e-5 3.2657454,-1e-5 v 0.93316 l 0.1283478,10e-6 1.9710599,-1.86633 -1.9710599,-1.86771 -0.1283478,10e-4 v 0.93317 c -2.0507649,0.009 -2.9158441,3.8e-4 -3.2657454,3.8e-4 -0.1166337,0.17497 -0.2248417,0.34994 -0.2290732,0.93574 -0.00419,0.58065 0.1124396,0.75562 0.2290732,0.93059 z"
+         style="fill:url(#linearGradient836);fill-opacity:1;stroke:#075503;stroke-width:0.23327908;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="translate(0,-0.23329382)" />
     </g>
   </g>
 </svg>

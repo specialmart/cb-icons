@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-40.160581"
-     inkscape:cy="6.9927481"
+     inkscape:zoom="16.000001"
+     inkscape:cx="20.970804"
+     inkscape:cy="19.903364"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -65,18 +65,16 @@
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1018"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      objecttolerance="10000"
-     guidetolerance="10000">
+     guidetolerance="10000"
+     showguides="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3699"
-       dotted="false"
-       spacingx="0.13229167"
-       spacingy="0.13229167" />
+       id="grid820" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -86,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,10 +98,10 @@
        transform="matrix(1.2399991,0,0,1.2399991,-2.0902059,-72.772614)"
        style="stroke-width:0.80645221">
       <path
-         sodipodi:nodetypes="cccccccccc"
+         sodipodi:nodetypes="cccccccccsc"
          inkscape:connector-curvature="0"
          id="path4507"
-         d="m 2.4324595,295.96349 h 3.4139811 v 0.85349 H 6.0598144 L 7.9801787,295.0033 6.0598144,293.08294 H 5.8464406 v 0.96018 c -2.0507649,0.009 -3.4139811,0 -3.4139811,0 z"
+         d="m 2.4324595,295.96349 h 3.4139811 v 0.85349 H 6.0598144 L 7.9801787,295.0033 6.0598144,293.18963 H 5.8464406 v 0.85349 c -2.0507649,0.009 -2.8805466,0 -3.4139811,0 -0.2133738,0.21337 -0.2133738,0.56344 -0.2133738,0.96352 0,0.40007 0,0.74347 0.2133738,0.95685 z"
          style="fill:url(#linearGradient836);fill-opacity:1;stroke:#075503;stroke-width:0.21337384;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <image
@@ -114,6 +112,7 @@
        style="stroke-width:0.91666663;image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="8.4666662"
-       width="8.4666662" />
+       width="8.4666662"
+       transform="translate(2.2489584,3.3072827)" />
   </g>
 </svg>
