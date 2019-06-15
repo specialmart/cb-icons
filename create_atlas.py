@@ -46,6 +46,8 @@ for t in imageTypes:
     imageSizes=[]
     if t == "images/manager_resources":
         imageSizes.extend([8, 10, 12, 16])
+    if t == "images/codecompletion":
+        imageSizes.extend([16])
     imageSizes.extend([20, 24, 28, 32, 40, 48, 56, 64])#, 96, 128])
 
     fullSize=sum(imageSizes)+len(imageSizes)*4+xOffset
