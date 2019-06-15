@@ -44,6 +44,8 @@ for t in imageTypes:
     print("======", t, "======" )
 
     imageSizes=[]
+    if t == "images/fortranproject":
+        imageSizes.extend([16])
     if t == "images/manager_resources":
         imageSizes.extend([8, 10, 12, 16])
     if t == "images/codecompletion":
