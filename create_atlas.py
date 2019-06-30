@@ -35,6 +35,7 @@ imageTypes=[
     "images/manager_resources",
     "images/NassiShneiderman",
     "images/start_here",
+    "images/tree",
     "images/ThreadSearch"
 ]
 
@@ -52,6 +53,8 @@ for t in imageTypes:
     if t == "images/codecompletion":
         imageSizes.extend([16])
     if t == "images/infopane":
+        imageSizes.extend([16])
+    if t == "images/tree":
         imageSizes.extend([16])
     imageSizes.extend([20, 24, 28, 32, 40, 48, 56, 64])#, 96, 128])
 
