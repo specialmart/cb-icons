@@ -46,17 +46,9 @@ for t in imageTypes:
     print("======", t, "======" )
 
     imageSizes=[]
-    if t == "images/fortranproject":
-        imageSizes.extend([16])
     if t == "images/manager_resources":
-        imageSizes.extend([8, 10, 12, 16])
-    if t == "images/codecompletion":
-        imageSizes.extend([16])
-    if t == "images/infopane":
-        imageSizes.extend([16])
-    if t == "images/tree":
-        imageSizes.extend([16])
-    imageSizes.extend([20, 24, 28, 32, 40, 48, 56, 64])#, 96, 128])
+        imageSizes.extend([8, 10, 12])
+    imageSizes.extend([16, 20, 24, 28, 32, 40, 48, 56, 64])#, 96, 128])
 
     fullSize=sum(imageSizes)+len(imageSizes)*4+xOffset
     yStride=max(imageSizes)+5
