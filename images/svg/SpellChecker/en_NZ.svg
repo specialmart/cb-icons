@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg884"
+   sodipodi:docname="en_NZ.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="../../SpellChecker/16x16/en_NZ.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs878">
+    <clipPath
+       id="b">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 V 1.5 H 7 V 3 H 6 Z M 6,0 H 3 V 3.5 H 0 V 3 Z"
+         id="path815" />
+    </clipPath>
+    <clipPath
+       id="b-1">
+      <path
+         id="path1811"
+         d="M0 0v1.5h7V3H6zm6 0H3v3.5H0V3z" />
+    </clipPath>
+    <path
+       d="M0-360l69.421 215.845 212.038-80.301L155.99-35.603l194.985 115.71-225.881 19.651 31.105 224.59L0 160l-156.198 164.349 31.105-224.59-225.881-19.651 194.986-115.711-125.471-188.853 212.038 80.301z"
+       id="a" />
+    <path
+       d="M0-210L54.86-75.508l144.862 10.614L88.765 28.842l34.67 141.052L0 93.334l-123.435 76.56 34.67-141.052-110.957-93.736L-54.86-75.508z"
+       id="d" />
+    <use
+       transform="scale(2.1)"
+       xlink:href="#a"
+       id="c" />
+    <clipPath
+       id="Canton">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path1559" />
+    </clipPath>
+    <clipPath
+       id="Diagonals">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 300,150 H 0 Z M 300,0 H 600 L 300,150 Z m 0,150 h 300 v 150 z m 0,0 V 300 H 0 Z"
+         id="path1562" />
+    </clipPath>
+    <clipPath
+       id="clipPath2200">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path2198" />
+    </clipPath>
+    <clipPath
+       id="clipPath2204">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path2202" />
+    </clipPath>
+    <clipPath
+       id="Canton-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path1559-6" />
+    </clipPath>
+    <clipPath
+       id="Diagonals-7">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 300,150 H 0 Z M 300,0 H 600 L 300,150 Z m 0,150 h 300 v 150 z m 0,0 V 300 H 0 Z"
+         id="path1562-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2200-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path2198-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath2204-6">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path2202-2" />
+    </clipPath>
+    <clipPath
+       id="Canton-9">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path1559-2" />
+    </clipPath>
+    <clipPath
+       id="Diagonals-2">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 300,150 H 0 Z M 300,0 H 600 L 300,150 Z m 0,150 h 300 v 150 z m 0,0 V 300 H 0 Z"
+         id="path1562-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath2958">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path2956" />
+    </clipPath>
+    <clipPath
+       id="clipPath2962">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,0 H 600 V 300 H 0 Z"
+         id="path2960" />
+    </clipPath>
+    <clipPath
+       id="Canton-97">
+      <path
+         id="path3379"
+         d="M 0,0 L 600,0 L 600,300 L 0,300 z" />
+    </clipPath>
+    <clipPath
+       id="Diagonals-3">
+      <path
+         id="path3382"
+         d="M 0,0 L 300,150 L 0,150 z M 300,0 L 600,0 L 300,150 z M 300,150 L 600,150 L 600,300 z M 300,150 L 300,300 L 0,300 z" />
+    </clipPath>
+    <g
+       id="Pentagram">
+      <g
+         transform="translate(0,-0.324925)"
+         id="Arm">
+        <path
+           id="path3385"
+           d="M 0,0 L 0,0.5 L 1,0 z" />
+        <path
+           id="path3387"
+           transform="rotate(-36,1,0)"
+           d="M 0,0 L 0,-0.5 L 1,0 z" />
+      </g>
+      <use
+         id="use3390"
+         transform="scale(-1,1)"
+         xlink:href="#Arm" />
+      <use
+         id="use3392"
+         transform="rotate(72,0,0)"
+         xlink:href="#Arm" />
+      <use
+         id="use3394"
+         transform="rotate(-72,0,0)"
+         xlink:href="#Arm" />
+      <use
+         id="use3396"
+         transform="rotate(-72,0,0) scale(-1,1)"
+         xlink:href="#Arm" />
+    </g>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="4.8283917"
+     inkscape:cy="-0.51442951"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="2089"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1774"
+       spacingx="0.26458333"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata881">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)"
+     style="display:inline">
+    <rect
+       style="fill:#00247d;stroke-width:0.00485069"
+       x="-0.26458406"
+       y="293.29581"
+       width="5.820828"
+       height="2.910414"
+       id="rect3401" />
+    <g
+       id="Flag_of_the_United_Kingdom"
+       transform="matrix(0.00485069,0,0,0.00485069,-0.26458407,293.29582)">
+      <path
+         style="stroke:#ffffff;stroke-width:60"
+         inkscape:connector-curvature="0"
+         id="Saint_Andrews_Cross"
+         d="M 0,0 600,300 M 0,300 600,0"
+         clip-path="url(#Canton-97)" />
+      <path
+         style="stroke:#cc142b;stroke-width:40"
+         inkscape:connector-curvature="0"
+         id="Saint_Patricks_Cross"
+         d="M 0,0 600,300 M 0,300 600,0"
+         clip-path="url(#Diagonals-3)" />
+      <g
+         id="Saint_Georges_Cross">
+        <path
+           style="stroke:#ffffff;stroke-width:100"
+           inkscape:connector-curvature="0"
+           d="M 300,0 V 300 M 0,150 h 600"
+           clip-path="url(#Canton-97)"
+           id="path3405" />
+        <path
+           style="stroke:#cc142b;stroke-width:60"
+           inkscape:connector-curvature="0"
+           d="M 300,0 V 300 M 0,150 h 600"
+           clip-path="url(#Canton-97)"
+           id="path3407" />
+      </g>
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#ffffff"
+       xlink:href="#Pentagram"
+       transform="matrix(0.22022133,0,0,0.22022133,3.3632901,293.95675)"
+       id="use3411" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#cc142b"
+       xlink:href="#Pentagram"
+       transform="matrix(0.1455207,0,0,0.1455207,3.3632901,293.95675)"
+       id="use3413" />
+    <g
+       id="Delta_Crucis"
+       transform="matrix(6.7508557e-4,0.00480348,-0.00480348,6.7508557e-4,3.9085491,290.05368)">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         style="fill:#ffffff"
+         xlink:href="#Pentagram"
+         transform="matrix(5.6225933,-40.00683,40.00683,5.6225933,900,120)"
+         id="use3416" />
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         style="fill:#cc142b"
+         xlink:href="#Pentagram"
+         transform="matrix(3.4793275,-24.756702,24.756702,3.4793275,900,120)"
+         id="use3418" />
+    </g>
+    <g
+       id="Beta_Crucis"
+       transform="matrix(6.7508557e-4,0.00480348,-0.00480348,6.7508557e-4,4.1731324,290.05368)">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         style="fill:#ffffff"
+         xlink:href="#Pentagram"
+         transform="matrix(6.3184588,-44.95817,44.95817,6.3184588,900,380)"
+         id="use3421" />
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         style="fill:#cc142b"
+         xlink:href="#Pentagram"
+         transform="matrix(4.175193,-29.708042,29.708042,4.175193,900,380)"
+         id="use3423" />
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#ffffff"
+       xlink:href="#Pentagram"
+       transform="matrix(0.24447478,0,0,0.24447478,3.3632901,295.703)"
+       id="use3428" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#cc142b"
+       xlink:href="#Pentagram"
+       transform="matrix(0.16977415,0,0,0.16977415,3.3632901,295.703)"
+       id="use3430" />
+    <image
+       y="293.29581"
+       x="-4.7624998"
+       id="image3614"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIRSURBVHjaYjxc2Ljjk0jr3Ev1olfYmJiq
+X0qkyv/zclALXPiMgeEbA8MfMPrBwPALjFgAAgAxAM7/AS0Xa7epXfwUF/jW1QD39gAZGw4VErTN
+7NDe8vv7/vz8/kMK6bzzE/P3/Pv8/7KfgQIAMQDO/wSiAq4D1CoH8e0F7/D/9/gFERD4+/499/qx
+7TH3+/9NCeQk9erw9xCY5RQdGxAAAPwCADEAzv8CsAow+yQpBiMk+w4S/hwfCDAv9BIZ0QUe+fz/
++vv9qO0VwPAPmOYWXRHk//39AAD6AojpjV0AIw/fsvucDxkFH/7mWvRBlkVT8wMb349ff6sEr4lw
+Mix+LRbC9UD1/1tP9idADQABADEAzv8DKPMR6AkVxNLu9/f53uz7vcnl0+j9FQj90On8TQnjKv/r
+t+8RzfMKE/71tv8j49i7Aohl8V2WfGaBP3wMJ/7w/vn99zf/n5uvf19+9vfX7//pD7R+/f7z+/cf
+oNtmf5dW4gQ5CSCAmID+AIbGr7//QKp///3169/P30DX/4OoA0n9/hvDcx8o+/fPP6AGgABiAWr4
+8+fv719/fwNJsCKQul9gEsj+82eC+EXBf19/8v48+NcQqAEggIAavgEDWFKcBygN1AkMeJBOIAOo
+4Q8wHv7OZrXzZn9y8J/437//GRj+AgQQIwNDMAPDF6S4/AWO2l+oCBLfQCdxAQQYAPiQOqzN4uIG
+AAAAAElFTkSuQmCC
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="2.9104166"
+       width="4.2333331" />
+  </g>
+</svg>

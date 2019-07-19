@@ -34,6 +34,7 @@ imageTypes=[
     "images/IncrementalSearch",
     "images/manager_resources",
     "images/NassiShneiderman",
+    "images/SpellChecker",
     "images/start_here",
     "images/tree",
     "images/ThreadSearch"

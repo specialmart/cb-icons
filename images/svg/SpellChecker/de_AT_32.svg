@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666664 8.4666671"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="de_AT_32.svg"
+   inkscape:export-filename="../../SpellChecker/32x32/de_AT.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="12.966248"
+     inkscape:cy="-1.0274013"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="2089"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4615"
+       spacingx="0.26458333"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53333)">
+    <rect
+       style="opacity:1;fill:#e70000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4617"
+       width="8.4666662"
+       height="5.8208203"
+       x="0"
+       y="289.59164" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4631"
+       width="8.4666662"
+       height="2.1166818"
+       x="0"
+       y="291.44373"
+       inkscape:export-filename="../../SpellChecker/24x24/de_AT.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g6299"
+       transform="matrix(2.0000001,0,0,2.0000027,0.52916679,-297.00075)"
+       style="stroke-width:0.4999997">
+      <rect
+         y="292.76666"
+         x="-4.7624998"
+         height="4.2333331"
+         width="4.2333331"
+         id="rect6292"
+         style="opacity:1;fill:#53523e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <image
+         width="4.2333331"
+         height="2.9104166"
+         preserveAspectRatio="none"
+         style="stroke-width:0.4999997;image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAElSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQ
+hAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f0NIKPoFJH/9
+//ULyGaUlQXaABBALAympv81tRhExYFWAI0BqQZZ8geE4Iw/f379+sUmLv5v+3aAAGJ8+fKlqKgo
+2Jb/DGCIBoBKISQ3N/fbt28BAgjiJKgqOAM7AMsCBBALQhFW85HV/weGyz+AAGL8ra/PWFj4//Vr
+BiQXAwPq/18UbwBlGcXF37S1AQQQy7+LF5mPHft/7x4DNFigYQIlIYw/vxmAYa2iAnQOQACxAEOK
+6fcfBklJUIACRYFywBAEsf8wQEiw8RAEVAwQQIxfUSMSTxxDAECAAQAPfFda8rBeqAAAAABJRU5E
+rkJggg==
+"
+         id="image6243"
+         x="-4.7624998"
+         y="293.29581" />
+    </g>
+  </g>
+</svg>
