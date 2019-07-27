@@ -24,6 +24,7 @@ def gatherImagesList(folder):
 
 imageTypes=[
     "images",
+    "images/abbreviations",
     "images/BrowseTracker",
     "images/codecompletion",
     "images/compiler",
