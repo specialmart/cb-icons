@@ -15,7 +15,7 @@
    viewBox="0 0 8.4666666 8.4666669"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="file-missing_32.svg"
    inkscape:export-filename="/home/martin/Pictures/Icons_job/file-missing/file-missing_128.png"
    inkscape:export-xdpi="384"
@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="13.101234"
-     inkscape:cy="14.307199"
+     inkscape:zoom="16"
+     inkscape:cx="-3.5217903"
+     inkscape:cy="28.861165"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -42,18 +42,18 @@
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
-     inkscape:window-x="0"
+     inkscape:window-height="2089"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      objecttolerance="10"
      guidetolerance="10">
     <inkscape:grid
        type="xygrid"
        id="grid3699"
        dotted="false"
-       spacingx="0.13229167"
-       spacingy="0.13229167" />
+       spacingx="0.26458334"
+       spacingy="0.26458334" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
