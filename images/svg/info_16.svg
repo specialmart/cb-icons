@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="info_16.svg"
+   inkscape:export-filename="../16x16/info.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   style="shape-rendering:crispEdges">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4942"
+       inkscape:collect="always">
+      <stop
+         id="stop4938"
+         offset="0"
+         style="stop-color:#003efe;stop-opacity:1" />
+      <stop
+         id="stop4940"
+         offset="1"
+         style="stop-color:#d4eaff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4942"
+       id="linearGradient4936"
+       x1="6.6889982"
+       y1="295.76801"
+       x2="0.54983717"
+       y2="288.26459"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46874995,0,0,0.46874995,0.13229154,157.64894)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="-1.1400244"
+     inkscape:cy="3.8249395"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     gridtolerance="10"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="2089"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3699"
+       dotted="false"
+       spacingx="0.26458333"
+       spacingy="0.26458333" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76663)">
+    <circle
+       id="path4109"
+       cx="2.1166666"
+       cy="294.8833"
+       style="fill:url(#linearGradient4936);fill-opacity:1;stroke:#001184;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98431373"
+       r="1.984375" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path854"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';letter-spacing:0px;word-spacing:0px;fill:#fffefe;fill-opacity:1;stroke:#0118b3;stroke-width:0.20176299;stroke-opacity:1;image-rendering:auto"
+       d="m 2.778125,294.19908 v 1.63195 c 0,0.0862 0.018764,0.16433 0.078793,0.20435 0.060029,0.037 0.050774,0.0446 0.1981183,0.0569 l -10e-8,0.24911 H 1.073854 v -0.24228 c 0.1855442,-0.0246 0.2975923,-0.033 0.3467069,-0.0638 0.054572,-0.0339 0.1528597,-0.14516 0.1528597,-0.24059 v -1.03886 c 0,-0.0954 -0.017802,-0.21996 -0.072374,-0.25074 -0.054572,-0.0339 -0.1480463,-0.0805 -0.3281333,-0.10202 v -0.20402 z m -1.1547665,-0.85857 c 0.1255152,-0.0708 0.2755878,-0.10621 0.4502176,-0.10621 0.1746298,0 0.3219738,0.0354 0.4420318,0.10621 0.1255152,0.0708 0.1941193,0.19054 0.1941193,0.28905 0,0.10159 -0.062758,0.24472 -0.1882728,0.31245 -0.120058,0.0677 -0.2701305,0.1016 -0.4502176,0.1016 -0.180087,0 -0.3301595,-0.0339 -0.4502175,-0.1016 -0.1200581,-0.0677 -0.1800871,-0.2124 -0.1800871,-0.31707 0,-0.0985 0.056912,-0.2167 0.1824263,-0.28443 z"
+       sodipodi:nodetypes="csccccccsscccccscscsssc" />
+    <image
+       y="292.76663"
+       x="-5.2916522"
+       id="image4543"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAPhSURB
+VDiNdZR9aJV1FMc/z+u89z533t29Oue0pUvJFyIkpYzqj/6wtJSWbyWVRDAKjEVRBl3IBK0gX/5I
+if4qlShh2oowIU0wpxTOStT5tumc2+7e7u59nuf3vPz6467pvO7AgQPn/D7ne34cjsI9bbdBomeZ
+FY+ulpJHhOeXgpSGrqel5A875+xj0G+BlH/3S6WAldi8Ihor2jltenn8sacWFNfV1xCxLIQHfb0Z
+LpzrlKePn8mkb6UHXVc0MrCpZQLgd1pk6tXPLSuyobFpuTVzdi0XL3Tz96lzhL6HlApaLMGs+fNR
+9CLa/73CT/sPZoXj7vJ7330fFAmg/Y+LVC3cXjujfMNH29ZbZZWl/Hb4DP+c+Is9Wx/n9bVzWLWs
+jpiW49Oth6h5YA5Wspy6ufPMjvZLD3nKkXiYO3wEQAXQkpsbrETk1XdSq2OaOQlHwLm2K7zcMJvq
+Kis/igLPPj2T4pjGra4+XCHBiLJk5ZqYbppvUvLx0lGFKXNSMvLLxg9eKE2WJxEeCA+SUyr59psT
+tF8eZGjY5vjJLjZtOYFaPJXq+rkIT0F4EGAQTVSYt65dWCKzj+7SSeorZtRVxWrvr8ERYNsBh5uP
+YWhQPa2SY6fSHPj5CqZpUFFViqEFXDvfTnLarLHmVuV9RONliYx7Y6kei01at/iJ+cWuyCdtJ+TX
+llb2fPEMLz5XTzRijFuCz3ad5OsfO4hV3ga6HpTMWBDPDfWvUcNALpw+sxZHgCPyI2z8ZCN7j9g0
+vHbonlsaBOC4t911wZxco0hFWaR6XlBSFLVwRxOuC1IporpuFn+2dU8IdEXex4RoFjLwS3UpJY4A
+CWMjCA88H8JQFsCklAShgiPG1wuhAFJRDUMf6O8buaujxPXuKQ4APyxUmMtmAKNPVVT19KXznWMJ
+V0hcAUJMDAwC7qjPu52+LqUiT6p2LrvvTGtbJg+Stws9kIUTj/tD5w53e9oy+PZ+lYHw+57Om9mO
+y9fHdcxkciQSkQKYaWqEYTCu1unvQNp9QwxWtKiQEiIQbx89cHAkk3G52XmD7rNHyVz8nR1bniwA
+Pr+0nrjsIuw+nleXs/GvHhwhdBrhDW/s2hgV276Ml1W+lKioiS2uH+GVNfMm/EMhApav+wE5+y3C
+y/uzOH276X+vCcadr5SulUV26mZk/ZQHF0WNWBmeD74PXsBY7I/GXrYHeltH8O2v6LebIBXeBRy1
+yZtXqaa5PZKYErWq58W14loCNX9gnWwGMdhBkD47jN09QiAaGfyw+c7nhUAAdhRRMrxS0SNrkfJh
+GXhJADQ9jVRb8e29DPnNkCpYrv8AaRcT8f5K7a8AAAAASUVORK5CYII=
+"
+       style="stroke-width:1.25000417;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="4.2333188"
+       width="4.2333188" />
+  </g>
+</svg>

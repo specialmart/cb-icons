@@ -16,9 +16,9 @@
    version="1.1"
    id="svg8"
    shape-rendering="crispEdges"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="dbgpause_32.svg"
-   inkscape:export-filename="dbgpause_32.png"
+   inkscape:export-filename="../32x32/dbgpause.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -76,9 +76,9 @@
        x2="0.92604166"
        y2="289.85623"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.26458328)" />
+       gradientTransform="matrix(1,0,0,0.91304349,0.52916666,25.19338)" />
     <linearGradient
-       gradientTransform="translate(3.9687503,-8.8947656e-6)"
+       gradientTransform="matrix(1,0,0,0.91304347,3.9687503,25.193359)"
        inkscape:collect="always"
        xlink:href="#linearGradient888"
        id="linearGradient890-7"
@@ -95,9 +95,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="17.328658"
-     inkscape:cy="20.302063"
+     inkscape:zoom="22.627418"
+     inkscape:cx="38.140527"
+     inkscape:cy="-4.9188822"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -106,8 +106,8 @@
      gridtolerance="10"
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -115,8 +115,8 @@
        type="xygrid"
        id="grid3699"
        dotted="false"
-       spacingx="0.13229167"
-       spacingy="0.13229167" />
+       spacingx="0.26458334"
+       spacingy="0.26458334" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -193,28 +193,37 @@
            sodipodi:nodetypes="csccccccccccccccc" />
       </g>
     </g>
-    <image
-       y="288.4451"
-       x="-9.3927088"
-       id="image849"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QwYCQIyxxk/rQAAANBJREFUOMvtlbENwjAQRV8iBKJk AoZgBkpYhhUQIzAIaVmBIaBPbMeKoUCYgjL2HUIKNFz99Gz/89lFjJEhqmSgGkw86q20OPSyKWfL +f04vUjM47QuRDHAdr9iPCmwNrLbVHzC/CbjEHRBjsmKuw68l6USk8w4dBBuYKywU4VJilsPzoNt 8mKNSYobA9ZCI4g1Jik2NdQGjMuLNSbZvNpA3YBv82KNKXPHdA7CVY5CYpJi515XSSqNSYq7NwZD Y773ugGEc6WPssIU/x9kcPETqdF63XWjK98AAAAASUVORK5CYII= "
-       style="stroke-width:0.93628919;image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="8.422574"
-       width="8.1579857" />
     <rect
        style="fill:url(#linearGradient890);fill-opacity:1;stroke:#0132b1;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect852"
        width="1.8520833"
-       height="6.0854168"
-       x="1.4552083"
-       y="289.72394" />
+       height="5.5562501"
+       x="1.7197917"
+       y="289.72397" />
     <rect
        style="fill:url(#linearGradient890-7);fill-opacity:1;stroke:#0132b1;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect852-5"
        width="1.8520833"
-       height="6.0854168"
+       height="5.5562501"
        x="5.1593752"
        y="289.72394" />
+    <image
+       y="288.53329"
+       x="-8.9958334"
+       id="image7452"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACfSURB VDiN7ZKxDYMwEEU/EhNlDqQMwgBZgzpbIKXMDMzAEBAafzsFVHD/DKKEK/10z/98Bi5Xxebg0ab1 WeqexV5eWrfUTYUYABJ4vz6HuCmchgRybjjKTeFvnBuiEHrcTjgCZNIJHe4mJDfvn+VSGAkw2Ak9 LkZeEgihx/XIIbMUwfVSQmYpgrsJ3aUInvnYttDjpnDov6ZoL7/rXP0BFVqqpoFufQoAAAAASUVO RK5CYII= "
+       style="stroke-width:0.62499994;image-rendering:optimizeSpeed;shape-rendering:crispEdges"
+       preserveAspectRatio="none"
+       height="8.4666672"
+       width="8.4666672" />
+    <image
+       y="297.52914"
+       x="0"
+       id="image7452-8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACfSURB VDiN7ZKxDYMwEEU/EhNlDqQMwgBZgzpbIKXMDMzAEBAafzsFVHD/DKKEK/10z/98Bi5Xxebg0ab1 WeqexV5eWrfUTYUYABJ4vz6HuCmchgRybjjKTeFvnBuiEHrcTjgCZNIJHe4mJDfvn+VSGAkw2Ak9 LkZeEgihx/XIIbMUwfVSQmYpgrsJ3aUInvnYttDjpnDov6ZoL7/rXP0BFVqqpoFufQoAAAAASUVO RK5CYII= "
+       style="stroke-width:0.62499994;image-rendering:optimizeSpeed;shape-rendering:crispEdges"
+       preserveAspectRatio="none"
+       height="8.4666672"
+       width="8.4666672" />
   </g>
 </svg>

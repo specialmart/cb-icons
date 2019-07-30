@@ -15,9 +15,9 @@
    viewBox="0 0 6.35 6.35"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="dbgpause_24.svg"
-   inkscape:export-filename="dbgpause_24.png"
+   inkscape:export-filename="../24x24/dbgpause.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    style="shape-rendering:crispEdges">
@@ -36,7 +36,7 @@
          id="stop886" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(0.57142856,0,0,0.65217397,0.77485118,102.8902)"
+       gradientTransform="matrix(0.71428561,0,0,0.60869566,0.60476195,115.48688)"
        inkscape:collect="always"
        xlink:href="#linearGradient888"
        id="linearGradient890"
@@ -46,7 +46,7 @@
        y2="289.85623"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       gradientTransform="matrix(0.57142856,0,0,0.65217396,3.1561009,102.89019)"
+       gradientTransform="matrix(0.71428553,0,0,0.60869566,2.9860116,115.48688)"
        inkscape:collect="always"
        xlink:href="#linearGradient888"
        id="linearGradient890-3"
@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="-16.374996"
-     inkscape:cy="16.895042"
+     inkscape:zoom="32.000002"
+     inkscape:cx="0.98396736"
+     inkscape:cy="-4.5830441"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -74,8 +74,8 @@
      gridtolerance="10000"
      inkscape:snap-perpendicular="false"
      inkscape:snap-tangential="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -85,8 +85,8 @@
        type="xygrid"
        id="grid3699"
        dotted="false"
-       spacingx="0.13229167"
-       spacingy="0.13229167" />
+       spacingx="0.26458333"
+       spacingy="0.26458333" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -96,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,28 +105,37 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-290.64997)">
-    <image
-       y="291.31143"
-       x="-9.3927088"
-       id="image835"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QwYCQIyxxk/rQAAANBJREFUOMvtlbENwjAQRV8iBKJk AoZgBkpYhhUQIzAIaVmBIaBPbMeKoUCYgjL2HUIKNFz99Gz/89lFjJEhqmSgGkw86q20OPSyKWfL +f04vUjM47QuRDHAdr9iPCmwNrLbVHzC/CbjEHRBjsmKuw68l6USk8w4dBBuYKywU4VJilsPzoNt 8mKNSYobA9ZCI4g1Jik2NdQGjMuLNSbZvNpA3YBv82KNKXPHdA7CVY5CYpJi515XSSqNSYq7NwZD Y773ugGEc6WPssIU/x9kcPETqdF63XWjK98AAAAASUVORK5CYII= "
-       style="stroke-width:1.22222209;image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="6.3499999"
-       width="6.3499999" />
     <rect
        style="fill:url(#linearGradient890);fill-opacity:1;stroke:#0132b1;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect852"
-       width="1.0583334"
-       height="3.9687502"
-       x="1.4552083"
+       width="1.3229166"
+       height="3.7041667"
+       x="1.4552082"
        y="291.84061" />
     <rect
        style="fill:url(#linearGradient890-3);fill-opacity:1;stroke:#0132b1;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
        id="rect852-5"
-       width="1.0583335"
-       height="3.9687502"
-       x="3.8364584"
+       width="1.3229166"
+       height="3.7041667"
+       x="3.8364582"
        y="291.84061" />
+    <image
+       y="290.64996"
+       x="-6.8791666"
+       id="image7452-8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACfSURB VDiN7ZKxDYMwEEU/EhNlDqQMwgBZgzpbIKXMDMzAEBAafzsFVHD/DKKEK/10z/98Bi5Xxebg0ab1 WeqexV5eWrfUTYUYABJ4vz6HuCmchgRybjjKTeFvnBuiEHrcTjgCZNIJHe4mJDfvn+VSGAkw2Ak9 LkZeEgihx/XIIbMUwfVSQmYpgrsJ3aUInvnYttDjpnDov6ZoL7/rXP0BFVqqpoFufQoAAAAASUVO RK5CYII= "
+       style="stroke-width:0.83333313;image-rendering:optimizeSpeed;shape-rendering:crispEdges"
+       preserveAspectRatio="none"
+       height="6.3500004"
+       width="6.3500004" />
+    <image
+       width="6.3500004"
+       height="6.3500004"
+       preserveAspectRatio="none"
+       style="stroke-width:0.83333313;image-rendering:optimizeSpeed;shape-rendering:crispEdges"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACfSURB VDiN7ZKxDYMwEEU/EhNlDqQMwgBZgzpbIKXMDMzAEBAafzsFVHD/DKKEK/10z/98Bi5Xxebg0ab1 WeqexV5eWrfUTYUYABJ4vz6HuCmchgRybjjKTeFvnBuiEHrcTjgCZNIJHe4mJDfvn+VSGAkw2Ak9 LkZeEgihx/XIIbMUwfVSQmYpgrsJ3aUInvnYttDjpnDov6ZoL7/rXP0BFVqqpoFufQoAAAAASUVO RK5CYII= "
+       id="image9341"
+       x="-8.8817842e-16"
+       y="297.52914" />
   </g>
 </svg>
