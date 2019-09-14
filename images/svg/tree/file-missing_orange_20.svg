@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916666 5.2916668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="file-missing_orange_20.svg"
+   inkscape:export-filename="/home/martin/Pictures/Icons_job/file-missing/file-missing_20.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   style="shape-rendering:crispEdges">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16.000001"
+     inkscape:cx="-0.34754026"
+     inkscape:cy="19.439704"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     gridtolerance="10"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false"
+     inkscape:window-width="1910"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     objecttolerance="10"
+     guidetolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3699"
+       dotted="false"
+       spacingx="0.26458333"
+       spacingy="0.26458333" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-291.7083)">
+    <path
+       style="fill:#d0d0df;fill-opacity:1;stroke:#9c9cb6;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.024812,291.84059 v 1.5875 h 1.30111"
+       id="path1039-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#d0d0df;fill-opacity:1;stroke:#9c9cb6;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+       d="m 3.0756646,291.84057 v 1.52999 h 1.2897988"
+       id="path1039-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#f2f2f9;fill-opacity:1;stroke:#ff9934;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+       d="m 4.3651275,295.13261 3.359e-4,-1.98062 -1.322755,-1.31139 -2.1167084,-10e-6 4.169e-5,1.32292 H 1.3229167 c 0.404608,0 1.1344106,0.62188 1.2153319,0.86276 0.080922,0.32117 0.3224497,0.65571 0.3224497,0.65571 0,0 0.2847503,0.069 0.4465934,0.069 h 0.396875 c 0.080922,0 0.5291667,0.52916 0.5291667,0.52916 h 0.1322917 z m 4.976e-4,0.94132 -4.976e-4,0.79374 H 0.92600017 l 4.152e-5,-2.91041 v 0.13229 H 0.79375002 1.0583334 c 0.202304,0 0.6977795,0.0347 0.832364,0.58704 0.093678,0.38447 0.8578763,1.13275 1.0197193,1.13274 0.6241827,1e-5 0.5375717,1e-5 0.7937501,0 0.080922,1e-5 0.27985,0.26459 0.3607715,0.26459 h 0.4329785"
+       id="path839-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccscccc" />
+    <path
+       style="fill:#d0d0df;fill-opacity:1;stroke:#ff9934;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
+       d="m 3.0509766,291.97288 -0.00827,1.19064 h 1.190625"
+       id="path1039-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
