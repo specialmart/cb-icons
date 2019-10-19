@@ -36,7 +36,7 @@ imageTypes=[
     "images/manager_resources",
     "images/NassiShneiderman",
     "images/SpellChecker",
-    "images/start_here",
+#    "images/start_here",
     "images/tree",
     "images/ThreadSearch"
 ]
@@ -58,7 +58,8 @@ for t in imageTypes:
     allFiles=gatherImagesList(t)
 
     yPos = 0
-    fullCommand = "convert -size {}x{} xc:white -pointsize 14 -fill black".format(fullSize, len(allFiles)*yStride)
+    background = "pattern:checkerboard -auto-level +level-colors 'gray(90%)','gray(80%)'"
+    fullCommand = "convert -size {}x{} {} -pointsize 14 -fill black".format(fullSize, len(allFiles)*yStride, background)
 
     for f in allFiles:
         fullCommand += " -draw \"text 0,{} '{}'\" ".format(yPos+yStride-10, t+"/NNxNN/"+f)
